@@ -1,0 +1,15 @@
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\bin\Debug\net8.0\ClassLibrary.dll
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\bin\Debug\net8.0\ClassLibrary.pdb
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.AssemblyReference.cache
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CopyComplete
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+E:\work\Csharp Bootcamp\Project\samples\ClassLibrary2\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll

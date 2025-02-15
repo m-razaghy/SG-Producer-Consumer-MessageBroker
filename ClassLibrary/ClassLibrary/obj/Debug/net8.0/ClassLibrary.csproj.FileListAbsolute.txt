@@ -1,0 +1,12 @@
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+E:\work\Csharp Bootcamp\Project\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

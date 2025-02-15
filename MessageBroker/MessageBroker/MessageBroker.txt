@@ -1,0 +1,522 @@
+2025-02-15 10:46:41:1990031  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:46:41:2190081  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:46:42:2250926  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:46:42:2259491  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:46:43:2385499  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:46:43:2413844  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:05:3893206  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 3): 35
+2025-02-15 10:48:05:4078061  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 2): 235
+2025-02-15 10:48:05:4239434  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 1): 208
+2025-02-15 10:48:05:4303787  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 2): 118
+2025-02-15 10:48:05:4327496  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 4): 167
+2025-02-15 10:48:05:4342941  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 5): 118
+2025-02-15 10:48:05:4376441  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 4): 215
+2025-02-15 10:48:05:4462384  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 1): 44
+2025-02-15 10:48:05:4529181  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 3): 8
+2025-02-15 10:48:05:4579806  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 5): 224
+2025-02-15 10:48:07:4426356  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 6): 239
+2025-02-15 10:48:07:449358  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 7): 37
+2025-02-15 10:48:07:4520863  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 7): 51
+2025-02-15 10:48:07:4543235  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 9): 20
+2025-02-15 10:48:07:4641017  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 8): 38
+2025-02-15 10:48:07:4813966  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 10): 69
+2025-02-15 10:48:07:4989011  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 8): 50
+2025-02-15 10:48:07:5065107  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 10): 20
+2025-02-15 10:48:07:5141645  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 9): 72
+2025-02-15 10:48:07:516138  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 6): 229
+2025-02-15 10:48:09:4650207  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 11): 31
+2025-02-15 10:48:09:4665551  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 11): 50
+2025-02-15 10:48:09:484299  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 13): 244
+2025-02-15 10:48:09:5018105  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 14): 77
+2025-02-15 10:48:09:5035415  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 15): 216
+2025-02-15 10:48:09:5215099  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 12): 236
+2025-02-15 10:48:09:5369723  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 12): 183
+2025-02-15 10:48:09:5552674  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 14): 234
+2025-02-15 10:48:09:5568207  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 15): 74
+2025-02-15 10:48:09:5581912  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 13): 185
+2025-02-15 10:48:10:6634517  [Info] Message 1 sent to IntConsumer2: 44
+2025-02-15 10:48:10:6665512  [Info] Message 1 sent to IntConsumer1: 208
+2025-02-15 10:48:10:6683986  [Warning] Waiting for message IntProducer2 -> IntConsumer2 (Expected: 2).
+2025-02-15 10:48:10:6863421  [Warning] Waiting for message IntProducer1 -> IntConsumer1 (Expected: 2).
+2025-02-15 10:48:10:7751329  [Info] Message (ConsumerId IntConsumer2 Sequence Number 1) acknowledged and removed.
+2025-02-15 10:48:10:7820102  [Info] Message (ConsumerId IntConsumer1 Sequence Number 1) acknowledged and removed.
+2025-02-15 10:48:10:7989652  [Info] Message 2 sent to IntConsumer2: 235
+2025-02-15 10:48:10:8026281  [Info] Message 2 sent to IntConsumer1: 118
+2025-02-15 10:48:10:8235973  [Info] Message (ConsumerId IntConsumer2 Sequence Number 2) acknowledged and removed.
+2025-02-15 10:48:10:8367397  [Info] Message (ConsumerId IntConsumer1 Sequence Number 2) acknowledged and removed.
+2025-02-15 10:48:10:8465333  [Info] Message 3 sent to IntConsumer2: 35
+2025-02-15 10:48:10:8547553  [Info] Message 3 sent to IntConsumer1: 8
+2025-02-15 10:48:10:8596239  [Info] Message (ConsumerId IntConsumer2 Sequence Number 3) acknowledged and removed.
+2025-02-15 10:48:10:874181  [Info] Message 4 sent to IntConsumer2: 167
+2025-02-15 10:48:10:8771368  [Info] Message (ConsumerId IntConsumer1 Sequence Number 3) acknowledged and removed.
+2025-02-15 10:48:10:8933768  [Info] Message 4 sent to IntConsumer1: 215
+2025-02-15 10:48:10:8953119  [Info] Message (ConsumerId IntConsumer2 Sequence Number 4) acknowledged and removed.
+2025-02-15 10:48:10:9024441  [Info] Message (ConsumerId IntConsumer1 Sequence Number 4) acknowledged and removed.
+2025-02-15 10:48:10:9059446  [Info] Message 5 sent to IntConsumer2: 118
+2025-02-15 10:48:10:9214556  [Info] Message 5 sent to IntConsumer1: 224
+2025-02-15 10:48:10:9513111  [Info] Message (ConsumerId IntConsumer2 Sequence Number 5) acknowledged and removed.
+2025-02-15 10:48:10:9571525  [Info] Message (ConsumerId IntConsumer1 Sequence Number 5) acknowledged and removed.
+2025-02-15 10:48:10:9691543  [Info] Message 6 sent to IntConsumer2: 239
+2025-02-15 10:48:10:9823345  [Info] Message 6 sent to IntConsumer1: 229
+2025-02-15 10:48:10:986462  [Info] Message (ConsumerId IntConsumer2 Sequence Number 6) acknowledged and removed.
+2025-02-15 10:48:11:0045969  [Info] Message 7 sent to IntConsumer2: 51
+2025-02-15 10:48:11:0142696  [Info] Message (ConsumerId IntConsumer1 Sequence Number 6) acknowledged and removed.
+2025-02-15 10:48:11:0186462  [Info] Message (ConsumerId IntConsumer2 Sequence Number 7) acknowledged and removed.
+2025-02-15 10:48:11:0509103  [Info] Message 8 sent to IntConsumer2: 38
+2025-02-15 10:48:11:0600358  [Info] Message 7 sent to IntConsumer1: 37
+2025-02-15 10:48:11:0867247  [Info] Message (ConsumerId IntConsumer2 Sequence Number 8) acknowledged and removed.
+2025-02-15 10:48:11:1002278  [Info] Message (ConsumerId IntConsumer1 Sequence Number 7) acknowledged and removed.
+2025-02-15 10:48:11:136385  [Info] Message 9 sent to IntConsumer2: 20
+2025-02-15 10:48:11:141967  [Info] Message 8 sent to IntConsumer1: 50
+2025-02-15 10:48:11:1631957  [Info] Message (ConsumerId IntConsumer1 Sequence Number 8) acknowledged and removed.
+2025-02-15 10:48:11:1740693  [Info] Message (ConsumerId IntConsumer2 Sequence Number 9) acknowledged and removed.
+2025-02-15 10:48:11:1871367  [Info] Message 9 sent to IntConsumer1: 72
+2025-02-15 10:48:11:2055529  [Info] Message 10 sent to IntConsumer2: 69
+2025-02-15 10:48:11:2085571  [Info] Message (ConsumerId IntConsumer1 Sequence Number 9) acknowledged and removed.
+2025-02-15 10:48:11:2455403  [Info] Message (ConsumerId IntConsumer2 Sequence Number 10) acknowledged and removed.
+2025-02-15 10:48:11:249401  [Info] Message 10 sent to IntConsumer1: 20
+2025-02-15 10:48:11:2605961  [Info] Message 11 sent to IntConsumer2: 50
+2025-02-15 10:48:11:2629057  [Info] Message (ConsumerId IntConsumer1 Sequence Number 10) acknowledged and removed.
+2025-02-15 10:48:11:287333  [Info] Message 11 sent to IntConsumer1: 31
+2025-02-15 10:48:11:2978668  [Info] Message (ConsumerId IntConsumer2 Sequence Number 11) acknowledged and removed.
+2025-02-15 10:48:11:3041006  [Info] Message (ConsumerId IntConsumer1 Sequence Number 11) acknowledged and removed.
+2025-02-15 10:48:11:3130599  [Info] Message 12 sent to IntConsumer2: 236
+2025-02-15 10:48:11:3146777  [Info] Message 12 sent to IntConsumer1: 183
+2025-02-15 10:48:11:3336878  [Info] Message (ConsumerId IntConsumer1 Sequence Number 12) acknowledged and removed.
+2025-02-15 10:48:11:3432504  [Info] Message (ConsumerId IntConsumer2 Sequence Number 12) acknowledged and removed.
+2025-02-15 10:48:11:3540229  [Info] Message 13 sent to IntConsumer1: 185
+2025-02-15 10:48:11:362304  [Info] Message 13 sent to IntConsumer2: 244
+2025-02-15 10:48:11:3640823  [Info] Message (ConsumerId IntConsumer1 Sequence Number 13) acknowledged and removed.
+2025-02-15 10:48:11:385564  [Info] Message 14 sent to IntConsumer1: 234
+2025-02-15 10:48:11:3871335  [Info] Message (ConsumerId IntConsumer2 Sequence Number 13) acknowledged and removed.
+2025-02-15 10:48:11:4042049  [Info] Message 14 sent to IntConsumer2: 77
+2025-02-15 10:48:11:4186913  [Info] Message (ConsumerId IntConsumer1 Sequence Number 14) acknowledged and removed.
+2025-02-15 10:48:11:4236355  [Info] Message (ConsumerId IntConsumer2 Sequence Number 14) acknowledged and removed.
+2025-02-15 10:48:11:4382611  [Info] Message 15 sent to IntConsumer1: 74
+2025-02-15 10:48:11:4585702  [Info] Message 15 sent to IntConsumer2: 216
+2025-02-15 10:48:11:468183  [Info] Message (ConsumerId IntConsumer1 Sequence Number 15) acknowledged and removed.
+2025-02-15 10:48:11:4845342  [Info] Message (ConsumerId IntConsumer2 Sequence Number 15) acknowledged and removed.
+2025-02-15 10:48:11:4933417  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:11:500869  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 16): 86
+2025-02-15 10:48:11:5202967  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:11:5322585  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 16): 183
+2025-02-15 10:48:11:5427874  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 17): 205
+2025-02-15 10:48:11:5589631  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 18): 12
+2025-02-15 10:48:11:5734205  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 19): 5
+2025-02-15 10:48:11:5992546  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 20): 21
+2025-02-15 10:48:11:6090297  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 17): 194
+2025-02-15 10:48:11:6220235  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 18): 22
+2025-02-15 10:48:11:6393743  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 19): 32
+2025-02-15 10:48:11:6457776  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 20): 76
+2025-02-15 10:48:11:7586436  [Info] Message 16 sent to IntConsumer2: 183
+2025-02-15 10:48:11:7901323  [Info] Message 16 sent to IntConsumer1: 86
+2025-02-15 10:48:11:7935363  [Info] Message (ConsumerId IntConsumer2 Sequence Number 16) acknowledged and removed.
+2025-02-15 10:48:11:8175256  [Info] Message (ConsumerId IntConsumer1 Sequence Number 16) acknowledged and removed.
+2025-02-15 10:48:11:8220669  [Info] Message 17 sent to IntConsumer2: 205
+2025-02-15 10:48:11:8290034  [Info] Message (ConsumerId IntConsumer2 Sequence Number 17) acknowledged and removed.
+2025-02-15 10:48:11:8637633  [Info] Message 17 sent to IntConsumer1: 194
+2025-02-15 10:48:11:8737305  [Info] Message (ConsumerId IntConsumer1 Sequence Number 17) acknowledged and removed.
+2025-02-15 10:48:11:888695  [Info] Message 18 sent to IntConsumer2: 12
+2025-02-15 10:48:11:9165216  [Info] Message 18 sent to IntConsumer1: 22
+2025-02-15 10:48:11:9341592  [Info] Message (ConsumerId IntConsumer2 Sequence Number 18) acknowledged and removed.
+2025-02-15 10:48:11:9479829  [Info] Message (ConsumerId IntConsumer1 Sequence Number 18) acknowledged and removed.
+2025-02-15 10:48:11:9564893  [Info] Message 19 sent to IntConsumer2: 5
+2025-02-15 10:48:11:9848061  [Info] Message 19 sent to IntConsumer1: 32
+2025-02-15 10:48:11:9983329  [Info] Message (ConsumerId IntConsumer2 Sequence Number 19) acknowledged and removed.
+2025-02-15 10:48:12:0020862  [Info] Message (ConsumerId IntConsumer1 Sequence Number 19) acknowledged and removed.
+2025-02-15 10:48:12:0207264  [Info] Message 20 sent to IntConsumer2: 21
+2025-02-15 10:48:12:0308008  [Info] Message 20 sent to IntConsumer1: 76
+2025-02-15 10:48:12:0511411  [Info] Message (ConsumerId IntConsumer2 Sequence Number 20) acknowledged and removed.
+2025-02-15 10:48:12:0587597  [Info] Message (ConsumerId IntConsumer1 Sequence Number 20) acknowledged and removed.
+2025-02-15 10:48:12:0661279  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:12:0742435  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:12:5101098  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:12:5479529  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:13:0825234  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:13:0852029  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:13:5348774  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 21): 29
+2025-02-15 10:48:13:5521062  [Info] Message 21 sent to IntConsumer1: 29
+2025-02-15 10:48:13:5590134  [Info] Message (ConsumerId IntConsumer1 Sequence Number 21) acknowledged and removed.
+2025-02-15 10:48:13:572399  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:13:5929702  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:13:6002118  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 22): 135
+2025-02-15 10:48:13:6200249  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 21): 226
+2025-02-15 10:48:13:6344937  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 23): 198
+2025-02-15 10:48:13:6456246  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 24): 203
+2025-02-15 10:48:13:6520151  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 25): 152
+2025-02-15 10:48:13:6648302  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 22): 149
+2025-02-15 10:48:13:6727828  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 23): 51
+2025-02-15 10:48:13:6853833  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 24): 162
+2025-02-15 10:48:13:6925593  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 25): 111
+2025-02-15 10:48:14:0833381  [Info] Message 22 sent to IntConsumer1: 149
+2025-02-15 10:48:14:0891926  [Info] Message 21 sent to IntConsumer2: 226
+2025-02-15 10:48:14:1056307  [Info] Message (ConsumerId IntConsumer1 Sequence Number 22) acknowledged and removed.
+2025-02-15 10:48:14:1123888  [Info] Message (ConsumerId IntConsumer2 Sequence Number 21) acknowledged and removed.
+2025-02-15 10:48:14:1151227  [Info] Message 23 sent to IntConsumer1: 51
+2025-02-15 10:48:14:1262284  [Info] Message (ConsumerId IntConsumer1 Sequence Number 23) acknowledged and removed.
+2025-02-15 10:48:14:1284393  [Info] Message 22 sent to IntConsumer2: 135
+2025-02-15 10:48:14:1440208  [Info] Message 24 sent to IntConsumer1: 162
+2025-02-15 10:48:14:1462831  [Info] Message (ConsumerId IntConsumer2 Sequence Number 22) acknowledged and removed.
+2025-02-15 10:48:14:160774  [Info] Message 23 sent to IntConsumer2: 198
+2025-02-15 10:48:14:1724109  [Info] Message (ConsumerId IntConsumer1 Sequence Number 24) acknowledged and removed.
+2025-02-15 10:48:14:1753619  [Info] Message (ConsumerId IntConsumer2 Sequence Number 23) acknowledged and removed.
+2025-02-15 10:48:14:1881282  [Info] Message 25 sent to IntConsumer1: 111
+2025-02-15 10:48:14:1944857  [Info] Message 24 sent to IntConsumer2: 203
+2025-02-15 10:48:14:2098399  [Info] Message (ConsumerId IntConsumer1 Sequence Number 25) acknowledged and removed.
+2025-02-15 10:48:14:221078  [Info] Message (ConsumerId IntConsumer2 Sequence Number 24) acknowledged and removed.
+2025-02-15 10:48:14:2326603  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:14:2406646  [Info] Message 25 sent to IntConsumer2: 152
+2025-02-15 10:48:14:2471343  [Info] Message (ConsumerId IntConsumer2 Sequence Number 25) acknowledged and removed.
+2025-02-15 10:48:14:2613465  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:14:608313  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:14:6232877  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:15:2437223  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:15:2597228  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:15:5636254  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 26): 180
+2025-02-15 10:48:15:6091044  [Info] Message 26 sent to IntConsumer1: 180
+2025-02-15 10:48:15:6166521  [Info] Message (ConsumerId IntConsumer1 Sequence Number 26) acknowledged and removed.
+2025-02-15 10:48:15:6249523  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:15:6325042  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:15:634484  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 26): 85
+2025-02-15 10:48:15:6459862  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 27): 202
+2025-02-15 10:48:15:659898  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 28): 227
+2025-02-15 10:48:15:6710648  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 29): 252
+2025-02-15 10:48:15:6774231  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 30): 214
+2025-02-15 10:48:15:70395  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 27): 240
+2025-02-15 10:48:15:7124984  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 28): 245
+2025-02-15 10:48:15:7232272  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 29): 12
+2025-02-15 10:48:15:7271385  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 30): 254
+2025-02-15 10:48:16:2586202  [Info] Message 27 sent to IntConsumer1: 240
+2025-02-15 10:48:16:2641624  [Info] Message (ConsumerId IntConsumer1 Sequence Number 27) acknowledged and removed.
+2025-02-15 10:48:16:2746479  [Info] Message 26 sent to IntConsumer2: 85
+2025-02-15 10:48:16:2758791  [Info] Message 28 sent to IntConsumer1: 245
+2025-02-15 10:48:16:2811739  [Info] Message (ConsumerId IntConsumer2 Sequence Number 26) acknowledged and removed.
+2025-02-15 10:48:16:2964359  [Info] Message (ConsumerId IntConsumer1 Sequence Number 28) acknowledged and removed.
+2025-02-15 10:48:16:3031929  [Info] Message 27 sent to IntConsumer2: 202
+2025-02-15 10:48:16:3151786  [Info] Message (ConsumerId IntConsumer2 Sequence Number 27) acknowledged and removed.
+2025-02-15 10:48:16:3177387  [Info] Message 29 sent to IntConsumer1: 12
+2025-02-15 10:48:16:3323804  [Info] Message 28 sent to IntConsumer2: 227
+2025-02-15 10:48:16:3472809  [Info] Message (ConsumerId IntConsumer1 Sequence Number 29) acknowledged and removed.
+2025-02-15 10:48:16:356494  [Info] Message (ConsumerId IntConsumer2 Sequence Number 28) acknowledged and removed.
+2025-02-15 10:48:16:367753  [Info] Message 30 sent to IntConsumer1: 254
+2025-02-15 10:48:16:3742149  [Info] Message 29 sent to IntConsumer2: 252
+2025-02-15 10:48:16:3901473  [Info] Message (ConsumerId IntConsumer1 Sequence Number 30) acknowledged and removed.
+2025-02-15 10:48:16:3993476  [Info] Message (ConsumerId IntConsumer2 Sequence Number 29) acknowledged and removed.
+2025-02-15 10:48:16:4115455  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:16:4135538  [Info] Message 30 sent to IntConsumer2: 214
+2025-02-15 10:48:16:4199637  [Info] Message (ConsumerId IntConsumer2 Sequence Number 30) acknowledged and removed.
+2025-02-15 10:48:16:4312163  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:16:639552  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:16:6415968  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:17:4329612  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:17:4349902  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:17:5899587  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 31): 184
+2025-02-15 10:48:17:6553535  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:17:6569375  [Info] Message 31 sent to IntConsumer1: 184
+2025-02-15 10:48:17:6654789  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 31): 103
+2025-02-15 10:48:17:68064  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 32): 200
+2025-02-15 10:48:17:6828667  [Info] Message (ConsumerId IntConsumer1 Sequence Number 31) acknowledged and removed.
+2025-02-15 10:48:17:6998379  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:17:7075871  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 33): 43
+2025-02-15 10:48:17:7156004  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 35): 150
+2025-02-15 10:48:17:7212809  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 34): 253
+2025-02-15 10:48:17:7423023  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 32): 92
+2025-02-15 10:48:17:7559336  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 33): 145
+2025-02-15 10:48:17:7573757  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 34): 249
+2025-02-15 10:48:17:7811438  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 35): 17
+2025-02-15 10:48:18:4333133  [Info] Message 32 sent to IntConsumer1: 92
+2025-02-15 10:48:18:4388815  [Info] Message 31 sent to IntConsumer2: 103
+2025-02-15 10:48:18:4511854  [Info] Message (ConsumerId IntConsumer1 Sequence Number 32) acknowledged and removed.
+2025-02-15 10:48:18:4565632  [Info] Message (ConsumerId IntConsumer2 Sequence Number 31) acknowledged and removed.
+2025-02-15 10:48:18:4715819  [Info] Message 33 sent to IntConsumer1: 145
+2025-02-15 10:48:18:4748712  [Info] Message 32 sent to IntConsumer2: 200
+2025-02-15 10:48:18:4976918  [Info] Message (ConsumerId IntConsumer2 Sequence Number 32) acknowledged and removed.
+2025-02-15 10:48:18:5022515  [Info] Message (ConsumerId IntConsumer1 Sequence Number 33) acknowledged and removed.
+2025-02-15 10:48:18:5204989  [Info] Message 33 sent to IntConsumer2: 43
+2025-02-15 10:48:18:5220253  [Info] Message 34 sent to IntConsumer1: 249
+2025-02-15 10:48:18:5423705  [Info] Message (ConsumerId IntConsumer1 Sequence Number 34) acknowledged and removed.
+2025-02-15 10:48:18:5474096  [Info] Message (ConsumerId IntConsumer2 Sequence Number 33) acknowledged and removed.
+2025-02-15 10:48:18:5640791  [Info] Message 35 sent to IntConsumer1: 17
+2025-02-15 10:48:18:5654668  [Info] Message 34 sent to IntConsumer2: 253
+2025-02-15 10:48:18:5712093  [Info] Message (ConsumerId IntConsumer1 Sequence Number 35) acknowledged and removed.
+2025-02-15 10:48:18:5845843  [Info] Message (ConsumerId IntConsumer2 Sequence Number 34) acknowledged and removed.
+2025-02-15 10:48:18:5914292  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:18:6023574  [Info] Message 35 sent to IntConsumer2: 150
+2025-02-15 10:48:18:6117644  [Info] Message (ConsumerId IntConsumer2 Sequence Number 35) acknowledged and removed.
+2025-02-15 10:48:18:6200578  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:18:6563726  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:18:7208241  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:19:5936602  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:19:611702  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 36): 99
+2025-02-15 10:48:19:6256811  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:19:6572351  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:19:6910233  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 36): 246
+2025-02-15 10:48:19:6987868  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 37): 133
+2025-02-15 10:48:19:7213443  [Info] Message 36 sent to IntConsumer1: 99
+2025-02-15 10:48:19:7288777  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 38): 100
+2025-02-15 10:48:19:737938  [Info] Message (ConsumerId IntConsumer1 Sequence Number 36) acknowledged and removed.
+2025-02-15 10:48:19:7499117  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:19:7637552  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 39): 194
+2025-02-15 10:48:19:7713183  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 40): 84
+2025-02-15 10:48:19:7914382  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 37): 39
+2025-02-15 10:48:19:8086191  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 38): 73
+2025-02-15 10:48:19:8151711  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 39): 95
+2025-02-15 10:48:19:8279582  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 40): 146
+2025-02-15 10:48:20:5937918  [Info] Message 37 sent to IntConsumer1: 39
+2025-02-15 10:48:20:5991631  [Info] Message (ConsumerId IntConsumer1 Sequence Number 37) acknowledged and removed.
+2025-02-15 10:48:20:6125114  [Info] Message 38 sent to IntConsumer1: 73
+2025-02-15 10:48:20:6189169  [Info] Message (ConsumerId IntConsumer1 Sequence Number 38) acknowledged and removed.
+2025-02-15 10:48:20:6326443  [Info] Message 39 sent to IntConsumer1: 95
+2025-02-15 10:48:20:648797  [Info] Message 36 sent to IntConsumer2: 246
+2025-02-15 10:48:20:6720925  [Info] Message (ConsumerId IntConsumer1 Sequence Number 39) acknowledged and removed.
+2025-02-15 10:48:20:6743176  [Info] Message (ConsumerId IntConsumer2 Sequence Number 36) acknowledged and removed.
+2025-02-15 10:48:20:6758522  [Info] Message 37 sent to IntConsumer2: 133
+2025-02-15 10:48:20:6945269  [Info] Message (ConsumerId IntConsumer2 Sequence Number 37) acknowledged and removed.
+2025-02-15 10:48:20:6963072  [Info] Message 38 sent to IntConsumer2: 100
+2025-02-15 10:48:20:7116464  [Info] Message 40 sent to IntConsumer1: 146
+2025-02-15 10:48:20:7130832  [Warning] Waiting for message IntProducer2 -> IntConsumer2 (Expected: 39).
+2025-02-15 10:48:20:7264882  [Info] Message (ConsumerId IntConsumer1 Sequence Number 40) acknowledged and removed.
+2025-02-15 10:48:20:7349705  [Info] Message (ConsumerId IntConsumer2 Sequence Number 38) acknowledged and removed.
+2025-02-15 10:48:20:7434825  [Info] Message 39 sent to IntConsumer2: 194
+2025-02-15 10:48:20:7452655  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:20:7519071  [Info] Message (ConsumerId IntConsumer2 Sequence Number 39) acknowledged and removed.
+2025-02-15 10:48:20:7622029  [Info] Message 40 sent to IntConsumer2: 84
+2025-02-15 10:48:20:7674199  [Info] Message (ConsumerId IntConsumer2 Sequence Number 40) acknowledged and removed.
+2025-02-15 10:48:20:7861506  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:20:7880712  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:21:6304751  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 41): 121
+2025-02-15 10:48:21:7067068  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:21:7086215  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 41): 129
+2025-02-15 10:48:21:7324338  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 42): 172
+2025-02-15 10:48:21:7386029  [Info] Message 41 sent to IntConsumer1: 121
+2025-02-15 10:48:21:7489727  [Info] Message (ConsumerId IntConsumer1 Sequence Number 41) acknowledged and removed.
+2025-02-15 10:48:21:7605302  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 43): 219
+2025-02-15 10:48:21:7718271  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:21:7864165  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:21:7888396  [Info] Message 41 sent to IntConsumer2: 129
+2025-02-15 10:48:21:7964811  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 44): 65
+2025-02-15 10:48:21:8111573  [Info] Message (ConsumerId IntConsumer2 Sequence Number 41) acknowledged and removed.
+2025-02-15 10:48:21:8225182  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 45): 159
+2025-02-15 10:48:21:8552679  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 42): 161
+2025-02-15 10:48:21:8592735  [Info] Message 42 sent to IntConsumer2: 172
+2025-02-15 10:48:21:8613961  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 43): 242
+2025-02-15 10:48:21:8649675  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 44): 217
+2025-02-15 10:48:21:8698155  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 45): 192
+2025-02-15 10:48:21:8928578  [Info] Message (ConsumerId IntConsumer2 Sequence Number 42) acknowledged and removed.
+2025-02-15 10:48:21:9127306  [Info] Message 43 sent to IntConsumer2: 219
+2025-02-15 10:48:21:9205994  [Info] Message (ConsumerId IntConsumer2 Sequence Number 43) acknowledged and removed.
+2025-02-15 10:48:21:9443843  [Info] Message 44 sent to IntConsumer2: 65
+2025-02-15 10:48:21:9548304  [Info] Message (ConsumerId IntConsumer2 Sequence Number 44) acknowledged and removed.
+2025-02-15 10:48:21:9878203  [Info] Message 45 sent to IntConsumer2: 159
+2025-02-15 10:48:21:9977504  [Info] Message (ConsumerId IntConsumer2 Sequence Number 45) acknowledged and removed.
+2025-02-15 10:48:22:0200642  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:23:6496487  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 46): 143
+2025-02-15 10:48:23:7452468  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 46): 17
+2025-02-15 10:48:23:7557131  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 47): 233
+2025-02-15 10:48:23:7761856  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 48): 224
+2025-02-15 10:48:23:8231713  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 49): 13
+2025-02-15 10:48:23:8722067  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 47): 159
+2025-02-15 10:48:23:88219  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 48): 193
+2025-02-15 10:48:23:8844194  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 50): 243
+2025-02-15 10:48:23:9131048  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 50): 182
+2025-02-15 10:48:23:9211042  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 49): 7
+2025-02-15 10:48:25:6653603  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 51): 106
+2025-02-15 10:48:25:7597596  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 51): 140
+2025-02-15 10:48:25:7763446  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 52): 30
+2025-02-15 10:48:25:7925572  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 53): 80
+2025-02-15 10:48:25:8401871  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 54): 193
+2025-02-15 10:48:25:8883403  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 52): 55
+2025-02-15 10:48:25:8985098  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 53): 34
+2025-02-15 10:48:25:9069324  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 55): 49
+2025-02-15 10:48:25:9361956  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 54): 170
+2025-02-15 10:48:25:9447935  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 55): 165
+2025-02-15 10:48:27:6806145  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 56): 119
+2025-02-15 10:48:27:7754101  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 56): 171
+2025-02-15 10:48:27:7914833  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 57): 218
+2025-02-15 10:48:27:8086345  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 58): 19
+2025-02-15 10:48:27:8561371  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 59): 161
+2025-02-15 10:48:27:9040511  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 57): 178
+2025-02-15 10:48:27:9195561  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 60): 60
+2025-02-15 10:48:27:926757  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 58): 197
+2025-02-15 10:48:27:951474  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 59): 216
+2025-02-15 10:48:27:9664857  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 60): 56
+2025-02-15 10:48:29:7024912  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 61): 59
+2025-02-15 10:48:29:7973891  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 61): 73
+2025-02-15 10:48:29:8175538  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 62): 107
+2025-02-15 10:48:29:8277566  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 63): 79
+2025-02-15 10:48:29:8767116  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 64): 102
+2025-02-15 10:48:29:9246301  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 62): 232
+2025-02-15 10:48:29:9407994  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 63): 26
+2025-02-15 10:48:29:9487583  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 65): 33
+2025-02-15 10:48:29:9726583  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 64): 238
+2025-02-15 10:48:29:991316  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 65): 131
+2025-02-15 10:48:31:7161322  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 66): 241
+2025-02-15 10:48:31:8279614  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 66): 54
+2025-02-15 10:48:31:8362933  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 67): 189
+2025-02-15 10:48:31:859521  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 68): 45
+2025-02-15 10:48:31:8922096  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 69): 248
+2025-02-15 10:48:31:9408867  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 67): 57
+2025-02-15 10:48:31:9565307  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 70): 180
+2025-02-15 10:48:31:978429  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 68): 173
+2025-02-15 10:48:31:9976655  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 69): 2
+2025-02-15 10:48:32:0240815  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 70): 44
+2025-02-15 10:48:33:7335752  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 71): 230
+2025-02-15 10:48:33:8445169  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 71): 223
+2025-02-15 10:48:33:8679236  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 72): 132
+2025-02-15 10:48:33:8788012  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 73): 240
+2025-02-15 10:48:33:907368  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 74): 104
+2025-02-15 10:48:33:9560681  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 72): 147
+2025-02-15 10:48:33:988768  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 73): 144
+2025-02-15 10:48:33:9980841  [Info] Message stored (ProducerId: IntProducer2 Sequence Number 75): 105
+2025-02-15 10:48:34:0355891  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 74): 255
+2025-02-15 10:48:34:0665797  [Info] Message stored (ProducerId: IntProducer1 Sequence Number 75): 175
+2025-02-15 10:48:45:6844919  [Info] Message 46 sent to IntConsumer2: 17
+2025-02-15 10:48:45:6859492  [Warning] Waiting for message IntProducer2 -> IntConsumer2 (Expected: 47).
+2025-02-15 10:48:45:6910798  [Info] Message 42 sent to IntConsumer1: 161
+2025-02-15 10:48:45:7049538  [Warning] Waiting for message IntProducer1 -> IntConsumer1 (Expected: 43).
+2025-02-15 10:48:45:743485  [Info] Message (ConsumerId IntConsumer1 Sequence Number 42) acknowledged and removed.
+2025-02-15 10:48:45:7542687  [Info] Message (ConsumerId IntConsumer2 Sequence Number 46) acknowledged and removed.
+2025-02-15 10:48:45:7697378  [Info] Message 43 sent to IntConsumer1: 242
+2025-02-15 10:48:45:7752691  [Info] Message 47 sent to IntConsumer2: 233
+2025-02-15 10:48:45:7883812  [Info] Message (ConsumerId IntConsumer1 Sequence Number 43) acknowledged and removed.
+2025-02-15 10:48:45:7901684  [Info] Message (ConsumerId IntConsumer2 Sequence Number 47) acknowledged and removed.
+2025-02-15 10:48:45:8090484  [Info] Message 44 sent to IntConsumer1: 217
+2025-02-15 10:48:45:8148034  [Info] Message 48 sent to IntConsumer2: 224
+2025-02-15 10:48:45:818022  [Info] Message (ConsumerId IntConsumer1 Sequence Number 44) acknowledged and removed.
+2025-02-15 10:48:45:8306387  [Info] Message 45 sent to IntConsumer1: 192
+2025-02-15 10:48:45:8399182  [Info] Message (ConsumerId IntConsumer2 Sequence Number 48) acknowledged and removed.
+2025-02-15 10:48:45:8449372  [Info] Message (ConsumerId IntConsumer1 Sequence Number 45) acknowledged and removed.
+2025-02-15 10:48:45:8603713  [Info] Message 49 sent to IntConsumer2: 13
+2025-02-15 10:48:45:8619525  [Info] Message 46 sent to IntConsumer1: 143
+2025-02-15 10:48:45:881324  [Info] Message (ConsumerId IntConsumer1 Sequence Number 46) acknowledged and removed.
+2025-02-15 10:48:45:8862932  [Info] Message (ConsumerId IntConsumer2 Sequence Number 49) acknowledged and removed.
+2025-02-15 10:48:45:9013175  [Info] Message 47 sent to IntConsumer1: 159
+2025-02-15 10:48:45:9081066  [Info] Message 50 sent to IntConsumer2: 243
+2025-02-15 10:48:45:9224359  [Info] Message (ConsumerId IntConsumer1 Sequence Number 47) acknowledged and removed.
+2025-02-15 10:48:45:9349416  [Info] Message (ConsumerId IntConsumer2 Sequence Number 50) acknowledged and removed.
+2025-02-15 10:48:45:9473428  [Info] Message 48 sent to IntConsumer1: 193
+2025-02-15 10:48:45:9486213  [Info] Message 51 sent to IntConsumer2: 140
+2025-02-15 10:48:45:9660698  [Info] Message (ConsumerId IntConsumer1 Sequence Number 48) acknowledged and removed.
+2025-02-15 10:48:45:9746703  [Info] Message (ConsumerId IntConsumer2 Sequence Number 51) acknowledged and removed.
+2025-02-15 10:48:45:989578  [Info] Message 49 sent to IntConsumer1: 7
+2025-02-15 10:48:45:9944079  [Info] Message 52 sent to IntConsumer2: 30
+2025-02-15 10:48:46:010429  [Info] Message (ConsumerId IntConsumer1 Sequence Number 49) acknowledged and removed.
+2025-02-15 10:48:46:0135589  [Info] Message (ConsumerId IntConsumer2 Sequence Number 52) acknowledged and removed.
+2025-02-15 10:48:46:0364159  [Info] Message 50 sent to IntConsumer1: 182
+2025-02-15 10:48:46:0381506  [Info] Message 53 sent to IntConsumer2: 80
+2025-02-15 10:48:46:0593403  [Info] Message (ConsumerId IntConsumer2 Sequence Number 53) acknowledged and removed.
+2025-02-15 10:48:46:066141  [Info] Message (ConsumerId IntConsumer1 Sequence Number 50) acknowledged and removed.
+2025-02-15 10:48:46:082236  [Info] Message 54 sent to IntConsumer2: 193
+2025-02-15 10:48:46:0848543  [Info] Message 51 sent to IntConsumer1: 106
+2025-02-15 10:48:46:1061292  [Info] Message (ConsumerId IntConsumer1 Sequence Number 51) acknowledged and removed.
+2025-02-15 10:48:46:1093258  [Info] Message (ConsumerId IntConsumer2 Sequence Number 54) acknowledged and removed.
+2025-02-15 10:48:46:1258717  [Info] Message 52 sent to IntConsumer1: 55
+2025-02-15 10:48:46:1312876  [Info] Message 55 sent to IntConsumer2: 49
+2025-02-15 10:48:46:1340707  [Info] Message (ConsumerId IntConsumer1 Sequence Number 52) acknowledged and removed.
+2025-02-15 10:48:46:1505638  [Info] Message 53 sent to IntConsumer1: 34
+2025-02-15 10:48:46:1532597  [Info] Message (ConsumerId IntConsumer2 Sequence Number 55) acknowledged and removed.
+2025-02-15 10:48:46:1609858  [Info] Message 56 sent to IntConsumer2: 171
+2025-02-15 10:48:46:1784605  [Info] Message (ConsumerId IntConsumer2 Sequence Number 56) acknowledged and removed.
+2025-02-15 10:48:46:1823723  [Info] Message (ConsumerId IntConsumer1 Sequence Number 53) acknowledged and removed.
+2025-02-15 10:48:46:2249342  [Info] Message 54 sent to IntConsumer1: 170
+2025-02-15 10:48:46:2293602  [Info] Message 57 sent to IntConsumer2: 218
+2025-02-15 10:48:46:2444691  [Info] Message (ConsumerId IntConsumer1 Sequence Number 54) acknowledged and removed.
+2025-02-15 10:48:46:2477451  [Info] Message (ConsumerId IntConsumer2 Sequence Number 57) acknowledged and removed.
+2025-02-15 10:48:46:2685836  [Info] Message 58 sent to IntConsumer2: 19
+2025-02-15 10:48:46:2750703  [Info] Message 55 sent to IntConsumer1: 165
+2025-02-15 10:48:46:2900357  [Info] Message (ConsumerId IntConsumer2 Sequence Number 58) acknowledged and removed.
+2025-02-15 10:48:46:2947175  [Info] Message (ConsumerId IntConsumer1 Sequence Number 55) acknowledged and removed.
+2025-02-15 10:48:46:3111911  [Info] Message 59 sent to IntConsumer2: 161
+2025-02-15 10:48:46:3182668  [Info] Message 56 sent to IntConsumer1: 119
+2025-02-15 10:48:46:3335584  [Info] Message (ConsumerId IntConsumer2 Sequence Number 59) acknowledged and removed.
+2025-02-15 10:48:46:3430439  [Info] Message (ConsumerId IntConsumer1 Sequence Number 56) acknowledged and removed.
+2025-02-15 10:48:46:3551998  [Info] Message 60 sent to IntConsumer2: 60
+2025-02-15 10:48:46:3628999  [Info] Message 57 sent to IntConsumer1: 178
+2025-02-15 10:48:46:3787142  [Info] Message (ConsumerId IntConsumer2 Sequence Number 60) acknowledged and removed.
+2025-02-15 10:48:46:3817816  [Info] Message (ConsumerId IntConsumer1 Sequence Number 57) acknowledged and removed.
+2025-02-15 10:48:46:3974085  [Info] Message 61 sent to IntConsumer2: 73
+2025-02-15 10:48:46:3987983  [Info] Message 58 sent to IntConsumer1: 197
+2025-02-15 10:48:46:41484  [Info] Message (ConsumerId IntConsumer1 Sequence Number 58) acknowledged and removed.
+2025-02-15 10:48:46:4200092  [Info] Message (ConsumerId IntConsumer2 Sequence Number 61) acknowledged and removed.
+2025-02-15 10:48:46:4348839  [Info] Message 59 sent to IntConsumer1: 216
+2025-02-15 10:48:46:4417666  [Info] Message (ConsumerId IntConsumer1 Sequence Number 59) acknowledged and removed.
+2025-02-15 10:48:46:4443499  [Info] Message 62 sent to IntConsumer2: 107
+2025-02-15 10:48:46:4616011  [Info] Message (ConsumerId IntConsumer2 Sequence Number 62) acknowledged and removed.
+2025-02-15 10:48:46:4670119  [Info] Message 60 sent to IntConsumer1: 56
+2025-02-15 10:48:46:4758818  [Info] Message 63 sent to IntConsumer2: 79
+2025-02-15 10:48:46:4806121  [Info] Message (ConsumerId IntConsumer1 Sequence Number 60) acknowledged and removed.
+2025-02-15 10:48:46:4990368  [Info] Message (ConsumerId IntConsumer2 Sequence Number 63) acknowledged and removed.
+2025-02-15 10:48:46:501081  [Info] Message 61 sent to IntConsumer1: 59
+2025-02-15 10:48:46:524019  [Info] Message (ConsumerId IntConsumer1 Sequence Number 61) acknowledged and removed.
+2025-02-15 10:48:46:5413641  [Info] Message 64 sent to IntConsumer2: 102
+2025-02-15 10:48:46:5481032  [Info] Message 62 sent to IntConsumer1: 232
+2025-02-15 10:48:46:5646055  [Info] Message (ConsumerId IntConsumer2 Sequence Number 64) acknowledged and removed.
+2025-02-15 10:48:46:5748552  [Info] Message (ConsumerId IntConsumer1 Sequence Number 62) acknowledged and removed.
+2025-02-15 10:48:46:5961652  [Info] Message 65 sent to IntConsumer2: 33
+2025-02-15 10:48:46:597596  [Info] Message 63 sent to IntConsumer1: 26
+2025-02-15 10:48:46:6178668  [Info] Message (ConsumerId IntConsumer2 Sequence Number 65) acknowledged and removed.
+2025-02-15 10:48:46:6218687  [Info] Message (ConsumerId IntConsumer1 Sequence Number 63) acknowledged and removed.
+2025-02-15 10:48:46:6401646  [Info] Message 66 sent to IntConsumer2: 54
+2025-02-15 10:48:46:6460388  [Info] Message 64 sent to IntConsumer1: 238
+2025-02-15 10:48:46:6611369  [Info] Message (ConsumerId IntConsumer2 Sequence Number 66) acknowledged and removed.
+2025-02-15 10:48:46:6698015  [Info] Message (ConsumerId IntConsumer1 Sequence Number 64) acknowledged and removed.
+2025-02-15 10:48:46:6836923  [Info] Message 67 sent to IntConsumer2: 189
+2025-02-15 10:48:46:6867304  [Info] Message 65 sent to IntConsumer1: 131
+2025-02-15 10:48:46:7091685  [Info] Message (ConsumerId IntConsumer1 Sequence Number 65) acknowledged and removed.
+2025-02-15 10:48:46:7116163  [Info] Message (ConsumerId IntConsumer2 Sequence Number 67) acknowledged and removed.
+2025-02-15 10:48:46:7358394  [Info] Message 66 sent to IntConsumer1: 241
+2025-02-15 10:48:46:7403994  [Warning] Waiting for message IntProducer1 -> IntConsumer1 (Expected: 67).
+2025-02-15 10:48:46:7433265  [Info] Message 68 sent to IntConsumer2: 45
+2025-02-15 10:48:46:7451632  [Warning] Waiting for message IntProducer2 -> IntConsumer2 (Expected: 69).
+2025-02-15 10:48:46:7554494  [Info] Message (ConsumerId IntConsumer1 Sequence Number 66) acknowledged and removed.
+2025-02-15 10:48:46:7600276  [Info] Message (ConsumerId IntConsumer2 Sequence Number 68) acknowledged and removed.
+2025-02-15 10:48:46:7798505  [Info] Message 67 sent to IntConsumer1: 57
+2025-02-15 10:48:46:7888744  [Info] Message 69 sent to IntConsumer2: 248
+2025-02-15 10:48:46:8039587  [Info] Message (ConsumerId IntConsumer1 Sequence Number 67) acknowledged and removed.
+2025-02-15 10:48:46:8059461  [Info] Message (ConsumerId IntConsumer2 Sequence Number 69) acknowledged and removed.
+2025-02-15 10:48:46:823198  [Info] Message 68 sent to IntConsumer1: 173
+2025-02-15 10:48:46:8293146  [Info] Message 70 sent to IntConsumer2: 180
+2025-02-15 10:48:46:831077  [Info] Message (ConsumerId IntConsumer1 Sequence Number 68) acknowledged and removed.
+2025-02-15 10:48:46:8463459  [Info] Message 69 sent to IntConsumer1: 2
+2025-02-15 10:48:46:8481492  [Info] Message (ConsumerId IntConsumer2 Sequence Number 70) acknowledged and removed.
+2025-02-15 10:48:46:8739542  [Info] Message 71 sent to IntConsumer2: 223
+2025-02-15 10:48:46:8833926  [Info] Message (ConsumerId IntConsumer1 Sequence Number 69) acknowledged and removed.
+2025-02-15 10:48:46:891619  [Info] Message (ConsumerId IntConsumer2 Sequence Number 71) acknowledged and removed.
+2025-02-15 10:48:46:9238942  [Info] Message 72 sent to IntConsumer2: 132
+2025-02-15 10:48:46:9289261  [Info] Message 70 sent to IntConsumer1: 44
+2025-02-15 10:48:46:9436768  [Info] Message (ConsumerId IntConsumer2 Sequence Number 72) acknowledged and removed.
+2025-02-15 10:48:46:952288  [Info] Message (ConsumerId IntConsumer1 Sequence Number 70) acknowledged and removed.
+2025-02-15 10:48:46:9705821  [Info] Message 73 sent to IntConsumer2: 240
+2025-02-15 10:48:46:9800496  [Info] Message 71 sent to IntConsumer1: 230
+2025-02-15 10:48:46:9941319  [Info] Message (ConsumerId IntConsumer2 Sequence Number 73) acknowledged and removed.
+2025-02-15 10:48:47:0137283  [Info] Message (ConsumerId IntConsumer1 Sequence Number 71) acknowledged and removed.
+2025-02-15 10:48:47:017864  [Info] Message 74 sent to IntConsumer2: 104
+2025-02-15 10:48:47:0213038  [Info] Message 72 sent to IntConsumer1: 147
+2025-02-15 10:48:47:0454925  [Info] Message (ConsumerId IntConsumer1 Sequence Number 72) acknowledged and removed.
+2025-02-15 10:48:47:0672648  [Info] Message (ConsumerId IntConsumer2 Sequence Number 74) acknowledged and removed.
+2025-02-15 10:48:47:0806438  [Info] Message 73 sent to IntConsumer1: 144
+2025-02-15 10:48:47:0878492  [Info] Message 75 sent to IntConsumer2: 105
+2025-02-15 10:48:47:1178114  [Info] Message (ConsumerId IntConsumer1 Sequence Number 73) acknowledged and removed.
+2025-02-15 10:48:47:1235355  [Info] Message (ConsumerId IntConsumer2 Sequence Number 75) acknowledged and removed.
+2025-02-15 10:48:47:1667933  [Info] Message 74 sent to IntConsumer1: 255
+2025-02-15 10:48:47:1775235  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:47:1950365  [Info] Message (ConsumerId IntConsumer1 Sequence Number 74) acknowledged and removed.
+2025-02-15 10:48:47:2188659  [Info] Message 75 sent to IntConsumer1: 175
+2025-02-15 10:48:47:2256195  [Info] Message (ConsumerId IntConsumer1 Sequence Number 75) acknowledged and removed.
+2025-02-15 10:48:47:2568732  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:47:747181  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:47:7631125  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:48:2067672  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:48:2704611  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:48:7621518  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:48:7782739  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:49:2080387  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:49:2710916  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:49:7623742  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:49:7939349  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:50:2219987  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:50:2859787  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:50:7781319  [Warning] No messages available for IntProducer1 -> IntConsumer1.
+2025-02-15 10:48:50:8100303  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:51:2382  [Warning] No messages available for IntProducer2 -> IntConsumer2.
+2025-02-15 10:48:51:2861755  [Warning] No messages available for IntProducer1 -> IntConsumer1.

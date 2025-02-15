@@ -1,0 +1,404 @@
+2025-02-15 10:46:39:5414827  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:46:39:5434588  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:46:40:1590093  [Info] Consumer IntConsumer1 -> Broker available again. Resuming.
+2025-02-15 10:46:40:1605959  [Info] Consumer IntConsumer2 -> Broker available again. Resuming.
+2025-02-15 10:46:41:2198104  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:46:41:2215269  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:46:42:2263109  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:46:42:2316543  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:46:43:2420225  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:46:43:2456892  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:46:48:3421261  [Warning] Consumer IntConsumer1 -> Broker Unreachable. Retrying 1/3...
+2025-02-15 10:46:48:345863  [Warning] Consumer IntConsumer2 -> Broker Unreachable. Retrying 1/3...
+2025-02-15 10:46:48:6265687  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:46:48:6279707  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:46:54:4056172  [Warning] Consumer IntConsumer1 -> Broker Unreachable. Retrying 2/3...
+2025-02-15 10:46:54:4077764  [Warning] Consumer IntConsumer2 -> Broker Unreachable. Retrying 2/3...
+2025-02-15 10:46:57:689047  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:46:57:6907306  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:00:482677  [Warning] Consumer IntConsumer2 -> Broker Unreachable. Retrying 3/3...
+2025-02-15 10:47:00:4842783  [Warning] Consumer IntConsumer1 -> Broker Unreachable. Retrying 3/3...
+2025-02-15 10:47:02:494057  [Error] Consumer IntConsumer2 -> Maximum retries (3) reached. Entering wait mode.
+2025-02-15 10:47:02:4956833  [Error] Consumer IntConsumer1 -> Maximum retries (3) reached. Entering wait mode.
+2025-02-15 10:47:06:5492497  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:06:5652814  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:06:7648046  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:06:7758678  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:15:6309294  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:15:647048  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:15:8520182  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:15:8552239  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:24:7009628  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:24:7165466  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:24:9230187  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:24:9246643  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:33:7760024  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:33:7919408  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:47:33:9824151  [Error] Consumer IntConsumer1 -> Broker Unreachable.
+2025-02-15 10:47:33:9836301  [Error] Consumer IntConsumer2 -> Broker Unreachable.
+2025-02-15 10:48:10:6895027  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:10:7461827  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:10:7825942  [Info] Consumer IntConsumer2 SequenceNumber 1 -> ACK sent for Sequence 1
+2025-02-15 10:48:10:7861621  [Info] Consumer IntConsumer1 SequenceNumber 1 -> ACK sent for Sequence 1
+2025-02-15 10:48:10:7878568  [Info] IntConsumer2 data 44 is consumed.
+2025-02-15 10:48:10:7887813  [Info] IntConsumer1 data 208 is consumed.
+2025-02-15 10:48:10:8366012  [Info] Consumer IntConsumer2 SequenceNumber 2 -> ACK sent for Sequence 2
+2025-02-15 10:48:10:8384981  [Info] IntConsumer2 data 235 is consumed.
+2025-02-15 10:48:10:8398557  [Info] Consumer IntConsumer1 SequenceNumber 2 -> ACK sent for Sequence 2
+2025-02-15 10:48:10:8407712  [Info] IntConsumer1 data 118 is consumed.
+2025-02-15 10:48:10:8664909  [Info] Consumer IntConsumer2 SequenceNumber 3 -> ACK sent for Sequence 3
+2025-02-15 10:48:10:8679587  [Info] IntConsumer2 data 35 is consumed.
+2025-02-15 10:48:10:8794391  [Info] Consumer IntConsumer1 SequenceNumber 3 -> ACK sent for Sequence 3
+2025-02-15 10:48:10:8809436  [Info] IntConsumer1 data 8 is consumed.
+2025-02-15 10:48:10:8976036  [Info] Consumer IntConsumer2 SequenceNumber 4 -> ACK sent for Sequence 4
+2025-02-15 10:48:10:8988543  [Info] IntConsumer2 data 167 is consumed.
+2025-02-15 10:48:10:9054252  [Info] Consumer IntConsumer1 SequenceNumber 4 -> ACK sent for Sequence 4
+2025-02-15 10:48:10:9071247  [Info] IntConsumer1 data 215 is consumed.
+2025-02-15 10:48:10:9578727  [Info] Consumer IntConsumer2 SequenceNumber 5 -> ACK sent for Sequence 5
+2025-02-15 10:48:10:9590428  [Info] IntConsumer2 data 118 is consumed.
+2025-02-15 10:48:10:960207  [Info] Consumer IntConsumer1 SequenceNumber 5 -> ACK sent for Sequence 5
+2025-02-15 10:48:10:9615472  [Info] IntConsumer1 data 224 is consumed.
+2025-02-15 10:48:10:9906181  [Info] Consumer IntConsumer2 SequenceNumber 6 -> ACK sent for Sequence 6
+2025-02-15 10:48:10:9913669  [Info] IntConsumer2 data 239 is consumed.
+2025-02-15 10:48:11:0188202  [Info] Consumer IntConsumer1 SequenceNumber 6 -> ACK sent for Sequence 6
+2025-02-15 10:48:11:019696  [Info] IntConsumer1 data 229 is consumed.
+2025-02-15 10:48:11:0218152  [Info] Consumer IntConsumer2 SequenceNumber 7 -> ACK sent for Sequence 7
+2025-02-15 10:48:11:023234  [Info] IntConsumer2 data 51 is consumed.
+2025-02-15 10:48:11:1007134  [Info] Consumer IntConsumer2 SequenceNumber 8 -> ACK sent for Sequence 8
+2025-02-15 10:48:11:1048421  [Info] IntConsumer2 data 38 is consumed.
+2025-02-15 10:48:11:1093727  [Info] Consumer IntConsumer1 SequenceNumber 7 -> ACK sent for Sequence 7
+2025-02-15 10:48:11:1108163  [Info] IntConsumer1 data 37 is consumed.
+2025-02-15 10:48:11:1744668  [Info] Consumer IntConsumer1 SequenceNumber 8 -> ACK sent for Sequence 8
+2025-02-15 10:48:11:1769802  [Info] Consumer IntConsumer2 SequenceNumber 9 -> ACK sent for Sequence 9
+2025-02-15 10:48:11:1826378  [Info] IntConsumer2 data 20 is consumed.
+2025-02-15 10:48:11:1841693  [Info] IntConsumer1 data 50 is consumed.
+2025-02-15 10:48:11:222989  [Info] Consumer IntConsumer1 SequenceNumber 9 -> ACK sent for Sequence 9
+2025-02-15 10:48:11:2253024  [Info] IntConsumer1 data 72 is consumed.
+2025-02-15 10:48:11:2494913  [Info] Consumer IntConsumer2 SequenceNumber 10 -> ACK sent for Sequence 10
+2025-02-15 10:48:11:2516712  [Info] IntConsumer2 data 69 is consumed.
+2025-02-15 10:48:11:2649458  [Info] Consumer IntConsumer1 SequenceNumber 10 -> ACK sent for Sequence 10
+2025-02-15 10:48:11:2665241  [Info] IntConsumer1 data 20 is consumed.
+2025-02-15 10:48:11:3048618  [Info] Consumer IntConsumer2 SequenceNumber 11 -> ACK sent for Sequence 11
+2025-02-15 10:48:11:3064212  [Info] IntConsumer2 data 50 is consumed.
+2025-02-15 10:48:11:3074251  [Info] Consumer IntConsumer1 SequenceNumber 11 -> ACK sent for Sequence 11
+2025-02-15 10:48:11:3086922  [Info] IntConsumer1 data 31 is consumed.
+2025-02-15 10:48:11:3436007  [Info] Consumer IntConsumer1 SequenceNumber 12 -> ACK sent for Sequence 12
+2025-02-15 10:48:11:3456043  [Info] Consumer IntConsumer2 SequenceNumber 12 -> ACK sent for Sequence 12
+2025-02-15 10:48:11:3468994  [Info] IntConsumer1 data 183 is consumed.
+2025-02-15 10:48:11:3480088  [Info] IntConsumer2 data 236 is consumed.
+2025-02-15 10:48:11:3686557  [Info] Consumer IntConsumer1 SequenceNumber 13 -> ACK sent for Sequence 13
+2025-02-15 10:48:11:3693747  [Info] IntConsumer1 data 185 is consumed.
+2025-02-15 10:48:11:3900066  [Info] Consumer IntConsumer2 SequenceNumber 13 -> ACK sent for Sequence 13
+2025-02-15 10:48:11:3908746  [Info] IntConsumer2 data 244 is consumed.
+2025-02-15 10:48:11:4246842  [Info] Consumer IntConsumer1 SequenceNumber 14 -> ACK sent for Sequence 14
+2025-02-15 10:48:11:4256792  [Info] IntConsumer1 data 234 is consumed.
+2025-02-15 10:48:11:4358794  [Info] Consumer IntConsumer2 SequenceNumber 14 -> ACK sent for Sequence 14
+2025-02-15 10:48:11:4382768  [Info] IntConsumer2 data 77 is consumed.
+2025-02-15 10:48:11:4840274  [Info] Consumer IntConsumer1 SequenceNumber 15 -> ACK sent for Sequence 15
+2025-02-15 10:48:11:4856212  [Info] IntConsumer1 data 74 is consumed.
+2025-02-15 10:48:11:4938047  [Info] Consumer IntConsumer2 SequenceNumber 15 -> ACK sent for Sequence 15
+2025-02-15 10:48:11:4958454  [Info] IntConsumer2 data 216 is consumed.
+2025-02-15 10:48:11:4969094  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:11:5325143  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:11:8073996  [Info] Consumer IntConsumer2 SequenceNumber 16 -> ACK sent for Sequence 16
+2025-02-15 10:48:11:8089304  [Info] IntConsumer2 data 183 is consumed.
+2025-02-15 10:48:11:8225292  [Info] Consumer IntConsumer1 SequenceNumber 16 -> ACK sent for Sequence 16
+2025-02-15 10:48:11:8242513  [Info] IntConsumer1 data 86 is consumed.
+2025-02-15 10:48:11:8639415  [Info] Consumer IntConsumer2 SequenceNumber 17 -> ACK sent for Sequence 17
+2025-02-15 10:48:11:865264  [Info] IntConsumer2 data 205 is consumed.
+2025-02-15 10:48:11:889065  [Info] Consumer IntConsumer1 SequenceNumber 17 -> ACK sent for Sequence 17
+2025-02-15 10:48:11:8986839  [Info] IntConsumer1 data 194 is consumed.
+2025-02-15 10:48:11:9439277  [Info] Consumer IntConsumer2 SequenceNumber 18 -> ACK sent for Sequence 18
+2025-02-15 10:48:11:9454345  [Info] IntConsumer2 data 12 is consumed.
+2025-02-15 10:48:11:9550687  [Info] Consumer IntConsumer1 SequenceNumber 18 -> ACK sent for Sequence 18
+2025-02-15 10:48:11:9570666  [Info] IntConsumer1 data 22 is consumed.
+2025-02-15 10:48:12:0021279  [Info] Consumer IntConsumer2 SequenceNumber 19 -> ACK sent for Sequence 19
+2025-02-15 10:48:12:0031364  [Info] IntConsumer2 data 5 is consumed.
+2025-02-15 10:48:12:0118014  [Info] Consumer IntConsumer1 SequenceNumber 19 -> ACK sent for Sequence 19
+2025-02-15 10:48:12:0132089  [Info] IntConsumer1 data 32 is consumed.
+2025-02-15 10:48:12:0595188  [Info] Consumer IntConsumer2 SequenceNumber 20 -> ACK sent for Sequence 20
+2025-02-15 10:48:12:061191  [Info] IntConsumer2 data 21 is consumed.
+2025-02-15 10:48:12:0629005  [Info] Consumer IntConsumer1 SequenceNumber 20 -> ACK sent for Sequence 20
+2025-02-15 10:48:12:0645676  [Info] IntConsumer1 data 76 is consumed.
+2025-02-15 10:48:12:0735805  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:12:076781  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:12:5234386  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:12:5699779  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:13:085667  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:13:0873126  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:13:5682336  [Info] Consumer IntConsumer1 SequenceNumber 21 -> ACK sent for Sequence 21
+2025-02-15 10:48:13:5696088  [Info] IntConsumer1 data 29 is consumed.
+2025-02-15 10:48:13:5951876  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:13:6006874  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:14:1078344  [Info] Consumer IntConsumer1 SequenceNumber 22 -> ACK sent for Sequence 22
+2025-02-15 10:48:14:1093401  [Info] IntConsumer1 data 149 is consumed.
+2025-02-15 10:48:14:1143454  [Info] Consumer IntConsumer2 SequenceNumber 21 -> ACK sent for Sequence 21
+2025-02-15 10:48:14:116408  [Info] IntConsumer2 data 226 is consumed.
+2025-02-15 10:48:14:1291546  [Info] Consumer IntConsumer1 SequenceNumber 23 -> ACK sent for Sequence 23
+2025-02-15 10:48:14:1311159  [Info] IntConsumer1 data 51 is consumed.
+2025-02-15 10:48:14:1501752  [Info] Consumer IntConsumer2 SequenceNumber 22 -> ACK sent for Sequence 22
+2025-02-15 10:48:14:1518478  [Info] IntConsumer2 data 135 is consumed.
+2025-02-15 10:48:14:1756807  [Info] Consumer IntConsumer1 SequenceNumber 24 -> ACK sent for Sequence 24
+2025-02-15 10:48:14:1768745  [Info] IntConsumer1 data 162 is consumed.
+2025-02-15 10:48:14:1818853  [Info] Consumer IntConsumer2 SequenceNumber 23 -> ACK sent for Sequence 23
+2025-02-15 10:48:14:1840791  [Info] IntConsumer2 data 198 is consumed.
+2025-02-15 10:48:14:2210679  [Info] Consumer IntConsumer1 SequenceNumber 25 -> ACK sent for Sequence 25
+2025-02-15 10:48:14:2222205  [Info] IntConsumer1 data 111 is consumed.
+2025-02-15 10:48:14:2234925  [Info] Consumer IntConsumer2 SequenceNumber 24 -> ACK sent for Sequence 24
+2025-02-15 10:48:14:2245133  [Info] IntConsumer2 data 203 is consumed.
+2025-02-15 10:48:14:2408019  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:14:2573407  [Info] Consumer IntConsumer2 SequenceNumber 25 -> ACK sent for Sequence 25
+2025-02-15 10:48:14:258604  [Info] IntConsumer2 data 152 is consumed.
+2025-02-15 10:48:14:2643506  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:14:6111992  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:14:6251335  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:15:2454916  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:15:261584  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:15:6216521  [Info] Consumer IntConsumer1 SequenceNumber 26 -> ACK sent for Sequence 26
+2025-02-15 10:48:15:6238196  [Info] IntConsumer1 data 180 is consumed.
+2025-02-15 10:48:15:632536  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:15:6350434  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:16:2716312  [Info] Consumer IntConsumer1 SequenceNumber 27 -> ACK sent for Sequence 27
+2025-02-15 10:48:16:2739966  [Info] IntConsumer1 data 240 is consumed.
+2025-02-15 10:48:16:2849819  [Info] Consumer IntConsumer2 SequenceNumber 26 -> ACK sent for Sequence 26
+2025-02-15 10:48:16:2861418  [Info] IntConsumer2 data 85 is consumed.
+2025-02-15 10:48:16:3000572  [Info] Consumer IntConsumer1 SequenceNumber 28 -> ACK sent for Sequence 28
+2025-02-15 10:48:16:3017749  [Info] IntConsumer1 data 245 is consumed.
+2025-02-15 10:48:16:3178687  [Info] Consumer IntConsumer2 SequenceNumber 27 -> ACK sent for Sequence 27
+2025-02-15 10:48:16:319391  [Info] IntConsumer2 data 202 is consumed.
+2025-02-15 10:48:16:3561606  [Info] Consumer IntConsumer1 SequenceNumber 29 -> ACK sent for Sequence 29
+2025-02-15 10:48:16:35797  [Info] IntConsumer1 data 12 is consumed.
+2025-02-15 10:48:16:3611514  [Info] Consumer IntConsumer2 SequenceNumber 28 -> ACK sent for Sequence 28
+2025-02-15 10:48:16:3635193  [Info] IntConsumer2 data 227 is consumed.
+2025-02-15 10:48:16:399992  [Info] Consumer IntConsumer1 SequenceNumber 30 -> ACK sent for Sequence 30
+2025-02-15 10:48:16:4019236  [Info] IntConsumer1 data 254 is consumed.
+2025-02-15 10:48:16:4027191  [Info] Consumer IntConsumer2 SequenceNumber 29 -> ACK sent for Sequence 29
+2025-02-15 10:48:16:4039487  [Info] IntConsumer2 data 252 is consumed.
+2025-02-15 10:48:16:4141534  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:16:4266348  [Info] Consumer IntConsumer2 SequenceNumber 30 -> ACK sent for Sequence 30
+2025-02-15 10:48:16:4287748  [Info] IntConsumer2 data 214 is consumed.
+2025-02-15 10:48:16:4330481  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:16:6418256  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:16:6440388  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:17:4349082  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:17:4368974  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:17:6571994  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:17:6848414  [Info] Consumer IntConsumer1 SequenceNumber 31 -> ACK sent for Sequence 31
+2025-02-15 10:48:17:6870793  [Info] IntConsumer1 data 184 is consumed.
+2025-02-15 10:48:17:7076452  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:18:4571577  [Info] Consumer IntConsumer1 SequenceNumber 32 -> ACK sent for Sequence 32
+2025-02-15 10:48:18:4586365  [Info] IntConsumer1 data 92 is consumed.
+2025-02-15 10:48:18:4607309  [Info] Consumer IntConsumer2 SequenceNumber 31 -> ACK sent for Sequence 31
+2025-02-15 10:48:18:462234  [Info] IntConsumer2 data 103 is consumed.
+2025-02-15 10:48:18:5025385  [Info] Consumer IntConsumer2 SequenceNumber 32 -> ACK sent for Sequence 32
+2025-02-15 10:48:18:5043831  [Info] IntConsumer2 data 200 is consumed.
+2025-02-15 10:48:18:5082387  [Info] Consumer IntConsumer1 SequenceNumber 33 -> ACK sent for Sequence 33
+2025-02-15 10:48:18:5105506  [Info] IntConsumer1 data 145 is consumed.
+2025-02-15 10:48:18:5471177  [Info] Consumer IntConsumer1 SequenceNumber 34 -> ACK sent for Sequence 34
+2025-02-15 10:48:18:5488351  [Info] IntConsumer1 data 249 is consumed.
+2025-02-15 10:48:18:5512591  [Info] Consumer IntConsumer2 SequenceNumber 33 -> ACK sent for Sequence 33
+2025-02-15 10:48:18:5527235  [Info] IntConsumer2 data 43 is consumed.
+2025-02-15 10:48:18:5795025  [Info] Consumer IntConsumer1 SequenceNumber 35 -> ACK sent for Sequence 35
+2025-02-15 10:48:18:5815428  [Info] IntConsumer1 data 17 is consumed.
+2025-02-15 10:48:18:5920265  [Info] Consumer IntConsumer2 SequenceNumber 34 -> ACK sent for Sequence 34
+2025-02-15 10:48:18:5931633  [Info] IntConsumer2 data 253 is consumed.
+2025-02-15 10:48:18:5970908  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:18:6167086  [Info] Consumer IntConsumer2 SequenceNumber 35 -> ACK sent for Sequence 35
+2025-02-15 10:48:18:6180928  [Info] IntConsumer2 data 150 is consumed.
+2025-02-15 10:48:18:6223306  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:18:6582933  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:18:7230755  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:19:5957928  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:19:6277188  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:19:6597308  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:19:7455264  [Info] Consumer IntConsumer1 SequenceNumber 36 -> ACK sent for Sequence 36
+2025-02-15 10:48:19:7480414  [Info] IntConsumer1 data 99 is consumed.
+2025-02-15 10:48:19:7636922  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:20:6088137  [Info] Consumer IntConsumer1 SequenceNumber 37 -> ACK sent for Sequence 37
+2025-02-15 10:48:20:610112  [Info] IntConsumer1 data 39 is consumed.
+2025-02-15 10:48:20:6277677  [Info] Consumer IntConsumer1 SequenceNumber 38 -> ACK sent for Sequence 38
+2025-02-15 10:48:20:6294787  [Info] IntConsumer1 data 73 is consumed.
+2025-02-15 10:48:20:6744708  [Info] Consumer IntConsumer1 SequenceNumber 39 -> ACK sent for Sequence 39
+2025-02-15 10:48:20:6764729  [Info] Consumer IntConsumer2 SequenceNumber 36 -> ACK sent for Sequence 36
+2025-02-15 10:48:20:6777045  [Info] IntConsumer2 data 246 is consumed.
+2025-02-15 10:48:20:6787378  [Info] IntConsumer1 data 95 is consumed.
+2025-02-15 10:48:20:6965506  [Info] Consumer IntConsumer2 SequenceNumber 37 -> ACK sent for Sequence 37
+2025-02-15 10:48:20:6986221  [Info] IntConsumer2 data 133 is consumed.
+2025-02-15 10:48:20:7166249  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:20:7353285  [Info] Consumer IntConsumer1 SequenceNumber 40 -> ACK sent for Sequence 40
+2025-02-15 10:48:20:7370355  [Info] Consumer IntConsumer2 SequenceNumber 38 -> ACK sent for Sequence 38
+2025-02-15 10:48:20:738153  [Info] IntConsumer2 data 100 is consumed.
+2025-02-15 10:48:20:7395504  [Info] IntConsumer1 data 146 is consumed.
+2025-02-15 10:48:20:747339  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:20:7579975  [Info] Consumer IntConsumer2 SequenceNumber 39 -> ACK sent for Sequence 39
+2025-02-15 10:48:20:7597385  [Info] IntConsumer2 data 194 is consumed.
+2025-02-15 10:48:20:7820444  [Info] Consumer IntConsumer2 SequenceNumber 40 -> ACK sent for Sequence 40
+2025-02-15 10:48:20:7856792  [Info] IntConsumer2 data 84 is consumed.
+2025-02-15 10:48:20:7884787  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:20:7900807  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:21:7087657  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:21:7539469  [Info] Consumer IntConsumer1 SequenceNumber 41 -> ACK sent for Sequence 41
+2025-02-15 10:48:21:7593339  [Info] IntConsumer1 data 121 is consumed.
+2025-02-15 10:48:21:7739187  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:21:7892066  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:21:8157844  [Info] Consumer IntConsumer2 SequenceNumber 41 -> ACK sent for Sequence 41
+2025-02-15 10:48:21:8212301  [Info] IntConsumer2 data 129 is consumed.
+2025-02-15 10:48:21:9058334  [Info] Consumer IntConsumer2 SequenceNumber 42 -> ACK sent for Sequence 42
+2025-02-15 10:48:21:9107985  [Info] IntConsumer2 data 172 is consumed.
+2025-02-15 10:48:21:9239029  [Info] Consumer IntConsumer2 SequenceNumber 43 -> ACK sent for Sequence 43
+2025-02-15 10:48:21:9416249  [Info] IntConsumer2 data 219 is consumed.
+2025-02-15 10:48:21:9830995  [Info] Consumer IntConsumer2 SequenceNumber 44 -> ACK sent for Sequence 44
+2025-02-15 10:48:21:985112  [Info] IntConsumer2 data 65 is consumed.
+2025-02-15 10:48:22:0009483  [Info] Consumer IntConsumer2 SequenceNumber 45 -> ACK sent for Sequence 45
+2025-02-15 10:48:22:0098299  [Info] IntConsumer2 data 159 is consumed.
+2025-02-15 10:48:22:0223858  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:45:6921333  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:45:7281878  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:45:7546589  [Info] Consumer IntConsumer1 SequenceNumber 42 -> ACK sent for Sequence 42
+2025-02-15 10:48:45:7561328  [Info] Consumer IntConsumer2 SequenceNumber 46 -> ACK sent for Sequence 46
+2025-02-15 10:48:45:7585003  [Info] IntConsumer1 data 161 is consumed.
+2025-02-15 10:48:45:7593036  [Info] IntConsumer2 data 17 is consumed.
+2025-02-15 10:48:45:7907404  [Info] Consumer IntConsumer1 SequenceNumber 43 -> ACK sent for Sequence 43
+2025-02-15 10:48:45:7919553  [Info] IntConsumer1 data 242 is consumed.
+2025-02-15 10:48:45:8017931  [Info] Consumer IntConsumer2 SequenceNumber 47 -> ACK sent for Sequence 47
+2025-02-15 10:48:45:8040558  [Info] IntConsumer2 data 233 is consumed.
+2025-02-15 10:48:45:820565  [Info] Consumer IntConsumer1 SequenceNumber 44 -> ACK sent for Sequence 44
+2025-02-15 10:48:45:821584  [Info] IntConsumer1 data 217 is consumed.
+2025-02-15 10:48:45:8456057  [Info] Consumer IntConsumer2 SequenceNumber 48 -> ACK sent for Sequence 48
+2025-02-15 10:48:45:8469412  [Info] IntConsumer2 data 224 is consumed.
+2025-02-15 10:48:45:8506584  [Info] Consumer IntConsumer1 SequenceNumber 45 -> ACK sent for Sequence 45
+2025-02-15 10:48:45:8520539  [Info] IntConsumer1 data 192 is consumed.
+2025-02-15 10:48:45:8852911  [Info] Consumer IntConsumer1 SequenceNumber 46 -> ACK sent for Sequence 46
+2025-02-15 10:48:45:8864995  [Info] IntConsumer1 data 143 is consumed.
+2025-02-15 10:48:45:8959824  [Info] Consumer IntConsumer2 SequenceNumber 49 -> ACK sent for Sequence 49
+2025-02-15 10:48:45:8973605  [Info] IntConsumer2 data 13 is consumed.
+2025-02-15 10:48:45:9355825  [Info] Consumer IntConsumer1 SequenceNumber 47 -> ACK sent for Sequence 47
+2025-02-15 10:48:45:9369717  [Info] IntConsumer1 data 159 is consumed.
+2025-02-15 10:48:45:9400624  [Info] Consumer IntConsumer2 SequenceNumber 50 -> ACK sent for Sequence 50
+2025-02-15 10:48:45:9408551  [Info] IntConsumer2 data 243 is consumed.
+2025-02-15 10:48:45:9754012  [Info] Consumer IntConsumer1 SequenceNumber 48 -> ACK sent for Sequence 48
+2025-02-15 10:48:45:9766843  [Info] IntConsumer1 data 193 is consumed.
+2025-02-15 10:48:45:9804106  [Info] Consumer IntConsumer2 SequenceNumber 51 -> ACK sent for Sequence 51
+2025-02-15 10:48:45:98173  [Info] IntConsumer2 data 140 is consumed.
+2025-02-15 10:48:46:0141353  [Info] Consumer IntConsumer1 SequenceNumber 49 -> ACK sent for Sequence 49
+2025-02-15 10:48:46:0157495  [Info] IntConsumer1 data 7 is consumed.
+2025-02-15 10:48:46:0170229  [Info] Consumer IntConsumer2 SequenceNumber 52 -> ACK sent for Sequence 52
+2025-02-15 10:48:46:0179307  [Info] IntConsumer2 data 30 is consumed.
+2025-02-15 10:48:46:0661363  [Info] Consumer IntConsumer2 SequenceNumber 53 -> ACK sent for Sequence 53
+2025-02-15 10:48:46:0678277  [Info] IntConsumer2 data 80 is consumed.
+2025-02-15 10:48:46:07631  [Info] Consumer IntConsumer1 SequenceNumber 50 -> ACK sent for Sequence 50
+2025-02-15 10:48:46:0781978  [Info] IntConsumer1 data 182 is consumed.
+2025-02-15 10:48:46:1099375  [Info] Consumer IntConsumer1 SequenceNumber 51 -> ACK sent for Sequence 51
+2025-02-15 10:48:46:1124985  [Info] IntConsumer1 data 106 is consumed.
+2025-02-15 10:48:46:1145311  [Info] Consumer IntConsumer2 SequenceNumber 54 -> ACK sent for Sequence 54
+2025-02-15 10:48:46:1160652  [Info] IntConsumer2 data 193 is consumed.
+2025-02-15 10:48:46:1367529  [Info] Consumer IntConsumer1 SequenceNumber 52 -> ACK sent for Sequence 52
+2025-02-15 10:48:46:1381245  [Info] IntConsumer1 data 55 is consumed.
+2025-02-15 10:48:46:156701  [Info] Consumer IntConsumer2 SequenceNumber 55 -> ACK sent for Sequence 55
+2025-02-15 10:48:46:158846  [Info] IntConsumer2 data 49 is consumed.
+2025-02-15 10:48:46:1826021  [Info] Consumer IntConsumer2 SequenceNumber 56 -> ACK sent for Sequence 56
+2025-02-15 10:48:46:1840533  [Info] IntConsumer2 data 171 is consumed.
+2025-02-15 10:48:46:1900785  [Info] Consumer IntConsumer1 SequenceNumber 53 -> ACK sent for Sequence 53
+2025-02-15 10:48:46:1915824  [Info] IntConsumer1 data 34 is consumed.
+2025-02-15 10:48:46:2487993  [Info] Consumer IntConsumer1 SequenceNumber 54 -> ACK sent for Sequence 54
+2025-02-15 10:48:46:2501  [Info] IntConsumer1 data 170 is consumed.
+2025-02-15 10:48:46:2635635  [Info] Consumer IntConsumer2 SequenceNumber 57 -> ACK sent for Sequence 57
+2025-02-15 10:48:46:264729  [Info] IntConsumer2 data 218 is consumed.
+2025-02-15 10:48:46:293997  [Info] Consumer IntConsumer2 SequenceNumber 58 -> ACK sent for Sequence 58
+2025-02-15 10:48:46:2950491  [Info] IntConsumer2 data 19 is consumed.
+2025-02-15 10:48:46:3098466  [Info] Consumer IntConsumer1 SequenceNumber 55 -> ACK sent for Sequence 55
+2025-02-15 10:48:46:3109456  [Info] IntConsumer1 data 165 is consumed.
+2025-02-15 10:48:46:3432548  [Info] Consumer IntConsumer2 SequenceNumber 59 -> ACK sent for Sequence 59
+2025-02-15 10:48:46:3456803  [Info] IntConsumer2 data 161 is consumed.
+2025-02-15 10:48:46:3471476  [Info] Consumer IntConsumer1 SequenceNumber 56 -> ACK sent for Sequence 56
+2025-02-15 10:48:46:3480964  [Info] IntConsumer1 data 119 is consumed.
+2025-02-15 10:48:46:3822605  [Info] Consumer IntConsumer2 SequenceNumber 60 -> ACK sent for Sequence 60
+2025-02-15 10:48:46:3833244  [Info] IntConsumer2 data 60 is consumed.
+2025-02-15 10:48:46:3885849  [Info] Consumer IntConsumer1 SequenceNumber 57 -> ACK sent for Sequence 57
+2025-02-15 10:48:46:3908131  [Info] IntConsumer1 data 178 is consumed.
+2025-02-15 10:48:46:4203435  [Info] Consumer IntConsumer1 SequenceNumber 58 -> ACK sent for Sequence 58
+2025-02-15 10:48:46:4225571  [Info] IntConsumer1 data 197 is consumed.
+2025-02-15 10:48:46:4271872  [Info] Consumer IntConsumer2 SequenceNumber 61 -> ACK sent for Sequence 61
+2025-02-15 10:48:46:4294387  [Info] IntConsumer2 data 73 is consumed.
+2025-02-15 10:48:46:4444494  [Info] Consumer IntConsumer1 SequenceNumber 59 -> ACK sent for Sequence 59
+2025-02-15 10:48:46:4458088  [Info] IntConsumer1 data 216 is consumed.
+2025-02-15 10:48:46:4673429  [Info] Consumer IntConsumer2 SequenceNumber 62 -> ACK sent for Sequence 62
+2025-02-15 10:48:46:4683028  [Info] IntConsumer2 data 107 is consumed.
+2025-02-15 10:48:46:4887221  [Info] Consumer IntConsumer1 SequenceNumber 60 -> ACK sent for Sequence 60
+2025-02-15 10:48:46:4903726  [Info] IntConsumer1 data 56 is consumed.
+2025-02-15 10:48:46:5012457  [Info] Consumer IntConsumer2 SequenceNumber 63 -> ACK sent for Sequence 63
+2025-02-15 10:48:46:5041614  [Info] IntConsumer2 data 79 is consumed.
+2025-02-15 10:48:46:5284704  [Info] Consumer IntConsumer1 SequenceNumber 61 -> ACK sent for Sequence 61
+2025-02-15 10:48:46:5305714  [Info] IntConsumer1 data 59 is consumed.
+2025-02-15 10:48:46:5749966  [Info] Consumer IntConsumer2 SequenceNumber 64 -> ACK sent for Sequence 64
+2025-02-15 10:48:46:5767336  [Info] IntConsumer2 data 102 is consumed.
+2025-02-15 10:48:46:5863011  [Info] Consumer IntConsumer1 SequenceNumber 62 -> ACK sent for Sequence 62
+2025-02-15 10:48:46:5887805  [Info] IntConsumer1 data 232 is consumed.
+2025-02-15 10:48:46:6209378  [Info] Consumer IntConsumer2 SequenceNumber 65 -> ACK sent for Sequence 65
+2025-02-15 10:48:46:6225194  [Info] IntConsumer2 data 33 is consumed.
+2025-02-15 10:48:46:6252839  [Info] Consumer IntConsumer1 SequenceNumber 63 -> ACK sent for Sequence 63
+2025-02-15 10:48:46:6277298  [Info] IntConsumer1 data 26 is consumed.
+2025-02-15 10:48:46:6701785  [Info] Consumer IntConsumer2 SequenceNumber 66 -> ACK sent for Sequence 66
+2025-02-15 10:48:46:6723727  [Info] IntConsumer2 data 54 is consumed.
+2025-02-15 10:48:46:6745727  [Info] Consumer IntConsumer1 SequenceNumber 64 -> ACK sent for Sequence 64
+2025-02-15 10:48:46:675819  [Info] IntConsumer1 data 238 is consumed.
+2025-02-15 10:48:46:7124858  [Info] Consumer IntConsumer1 SequenceNumber 65 -> ACK sent for Sequence 65
+2025-02-15 10:48:46:7147874  [Info] IntConsumer1 data 131 is consumed.
+2025-02-15 10:48:46:732233  [Info] Consumer IntConsumer2 SequenceNumber 67 -> ACK sent for Sequence 67
+2025-02-15 10:48:46:7337486  [Info] IntConsumer2 data 189 is consumed.
+2025-02-15 10:48:46:7433649  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:46:7476047  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:46:7607159  [Info] Consumer IntConsumer1 SequenceNumber 66 -> ACK sent for Sequence 66
+2025-02-15 10:48:46:7630477  [Info] IntConsumer1 data 241 is consumed.
+2025-02-15 10:48:46:7640171  [Info] Consumer IntConsumer2 SequenceNumber 68 -> ACK sent for Sequence 68
+2025-02-15 10:48:46:7651694  [Info] IntConsumer2 data 45 is consumed.
+2025-02-15 10:48:46:8063991  [Info] Consumer IntConsumer1 SequenceNumber 67 -> ACK sent for Sequence 67
+2025-02-15 10:48:46:8082733  [Info] IntConsumer1 data 57 is consumed.
+2025-02-15 10:48:46:8155341  [Info] Consumer IntConsumer2 SequenceNumber 69 -> ACK sent for Sequence 69
+2025-02-15 10:48:46:817542  [Info] IntConsumer2 data 248 is consumed.
+2025-02-15 10:48:46:8363956  [Info] Consumer IntConsumer1 SequenceNumber 68 -> ACK sent for Sequence 68
+2025-02-15 10:48:46:8388744  [Info] IntConsumer1 data 173 is consumed.
+2025-02-15 10:48:46:851558  [Info] Consumer IntConsumer2 SequenceNumber 70 -> ACK sent for Sequence 70
+2025-02-15 10:48:46:8537794  [Info] IntConsumer2 data 180 is consumed.
+2025-02-15 10:48:46:8911474  [Info] Consumer IntConsumer1 SequenceNumber 69 -> ACK sent for Sequence 69
+2025-02-15 10:48:46:8926641  [Info] IntConsumer1 data 2 is consumed.
+2025-02-15 10:48:46:9010398  [Info] Consumer IntConsumer2 SequenceNumber 71 -> ACK sent for Sequence 71
+2025-02-15 10:48:46:9037573  [Info] IntConsumer2 data 223 is consumed.
+2025-02-15 10:48:46:9530113  [Info] Consumer IntConsumer2 SequenceNumber 72 -> ACK sent for Sequence 72
+2025-02-15 10:48:46:9545857  [Info] IntConsumer2 data 132 is consumed.
+2025-02-15 10:48:46:9616764  [Info] Consumer IntConsumer1 SequenceNumber 70 -> ACK sent for Sequence 70
+2025-02-15 10:48:46:9641492  [Info] IntConsumer1 data 44 is consumed.
+2025-02-15 10:48:47:0146134  [Info] Consumer IntConsumer2 SequenceNumber 73 -> ACK sent for Sequence 73
+2025-02-15 10:48:47:0162417  [Info] IntConsumer2 data 240 is consumed.
+2025-02-15 10:48:47:0174337  [Info] Consumer IntConsumer1 SequenceNumber 71 -> ACK sent for Sequence 71
+2025-02-15 10:48:47:0186864  [Info] IntConsumer1 data 230 is consumed.
+2025-02-15 10:48:47:0679233  [Info] Consumer IntConsumer1 SequenceNumber 72 -> ACK sent for Sequence 72
+2025-02-15 10:48:47:069724  [Info] IntConsumer1 data 147 is consumed.
+2025-02-15 10:48:47:0806003  [Info] Consumer IntConsumer2 SequenceNumber 74 -> ACK sent for Sequence 74
+2025-02-15 10:48:47:0828666  [Info] IntConsumer2 data 104 is consumed.
+2025-02-15 10:48:47:1234598  [Info] Consumer IntConsumer1 SequenceNumber 73 -> ACK sent for Sequence 73
+2025-02-15 10:48:47:1252343  [Info] IntConsumer1 data 144 is consumed.
+2025-02-15 10:48:47:1672551  [Info] Consumer IntConsumer2 SequenceNumber 75 -> ACK sent for Sequence 75
+2025-02-15 10:48:47:1698496  [Info] IntConsumer2 data 105 is consumed.
+2025-02-15 10:48:47:195168  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:47:2151704  [Info] Consumer IntConsumer1 SequenceNumber 74 -> ACK sent for Sequence 74
+2025-02-15 10:48:47:2168932  [Info] IntConsumer1 data 255 is consumed.
+2025-02-15 10:48:47:2523018  [Info] Consumer IntConsumer1 SequenceNumber 75 -> ACK sent for Sequence 75
+2025-02-15 10:48:47:2548336  [Info] IntConsumer1 data 175 is consumed.
+2025-02-15 10:48:47:2593524  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:47:7495917  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:47:7661515  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:48:2096637  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:48:2744815  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:48:7638977  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:48:7798963  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:49:2103495  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:49:2728931  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:49:7646471  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:49:7960901  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:50:2238639  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:50:2881157  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:50:7802722  [Warning] Consumer IntConsumer1 -> No messages available.
+2025-02-15 10:48:50:8123447  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:51:2405484  [Warning] Consumer IntConsumer2 -> No messages available.
+2025-02-15 10:48:51:2883501  [Warning] Consumer IntConsumer1 -> No messages available.
